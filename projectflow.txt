@@ -19,5 +19,6 @@
 
 
 git log --oneline
-git checkout <hash> -git checkout master
+git checkout <hash> -git checkout main
+
 dvc pull
